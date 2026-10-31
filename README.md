@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! Я Кирилл Кислица
 
-<!--
-**When3n/When3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент Кемеровского государственного университета.
+Направление — фундаментальная информатика и информационные технологии.
 
-Here are some ideas to get you started:
+### Что изучаю
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++ и Python
+- Git и GitHub
+- Совместную разработку и проверку кода
+
+### Учебные проекты
+
+- [Поисковая выдача на C++](https://github.com/dimapasssecurity/google-search-core1) — текстовый ответ и блок изображений.
+- [Командная текстовая игра](https://github.com/blareww/team-game-arcade) — случайное событие «Аномалия» и проверка модуля лечения.
